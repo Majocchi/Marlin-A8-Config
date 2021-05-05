@@ -1,4 +1,4 @@
-# Marlin-ANET-Config ( A6 / A8 )
+# Marlin-ANET-Config ( A6 / A8 ) 2021
 
 It's a bit tricky to get Marlin v 2.08 (Release 30. April 2021) compiled for ANET A8 3d-Printer on Windows 10.
 
