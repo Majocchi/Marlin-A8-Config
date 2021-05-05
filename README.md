@@ -6,7 +6,7 @@ Here's what you need to get it work:
 
 1.) modified Ardunino IDE Version 1.8.10:
 https://github.com/Majocchi/Marlin-ANET-Config/releases/download/1.0/anet-arduino-1.8.10.zip
-Description: https://github.com/Majocchi/Marlin-ANET-Config/releases/tag/1.0
+( Description & Sources: https://github.com/Majocchi/Marlin-ANET-Config/releases/tag/1.0 )
 
 2.) modified Marlin Version 2.0.8:
 https://github.com/Majocchi/Marlin-ANET-Config/releases/download/1.1/Marlin.zip
