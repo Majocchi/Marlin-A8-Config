@@ -4,15 +4,11 @@ It's a bit tricky to get Marlin v 2.08 (Release 30. April 2021) compiled for ANE
 
 Here's what you need to get it work:
 
-1.) modified Ardunino IDE Version 1.8.10:
+1.) modified Ardunino IDE Version 1.8.10: https://github.com/Majocchi/Marlin-ANET-Config/releases/tag/1.0
 https://github.com/Majocchi/Marlin-ANET-Config/releases/download/1.0/anet-arduino-1.8.10.zip
 
-( -> Description & Sources: https://github.com/Majocchi/Marlin-ANET-Config/releases/tag/1.0 )
-
-2.) modified Marlin Version 2.0.8:
+2.) modified Marlin Version 2.0.8: https://github.com/Majocchi/Marlin-ANET-Config/releases/tag/1.1
 https://github.com/Majocchi/Marlin-ANET-Config/releases/download/1.1/Marlin.zip
-
-( -> Description & Sources: https://github.com/Majocchi/Marlin-ANET-Config/releases/tag/1.1 )
 
 
 
