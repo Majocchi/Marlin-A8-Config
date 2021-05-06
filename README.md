@@ -29,9 +29,10 @@ Here's what you need to get it work:
       https://chriss.gebbing.de/3d-drucker/anet-board-1-7-mit-bootloader-flashen/
       https://01001000.xyz/2020-08-06-Updating-Firmware-Anet-A8-Board-1.7/
       
-- Choose the Config.h file which meets your Printer and copy it to ..\portable\sketchbook\Marlin
+- Choose the Config.h file which meets your Printer [ https://github.com/Majocchi/Marlin-ANET-Config/releases/tag/1.2 ]
+
+  and copy it to ..\portable\sketchbook\Marlin\
  
-      -> https://github.com/Majocchi/Marlin-ANET-Config/releases/tag/1.2
 
 
 
