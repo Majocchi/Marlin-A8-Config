@@ -12,6 +12,22 @@ Here's what you need to get it work:
 
     -> https://github.com/Majocchi/Marlin-ANET-Config/releases/download/1.1/Marlin.zip
 
+3.) Windows USB to Serial driver for ANET 1.x Board [ https://github.com/Majocchi/Marlin-ANET-Config/releases/tag/0.9 ]
+   
+    -> https://github.com/Majocchi/Marlin-ANET-Config/releases/download/0.9/CH340drv.zip
+
+# Let's GO !
+
+- Unzip Arduino to a short Path ( like c:\arduino )
+- Unzip Marlin to your Ardunio path -> ..\portable\sketchbook\Marlin
+- Install Windows USB Serial Driver & connect your ANET v1.x Board (powered by 12V)
+- Open arduino.exe and set your serial port -> Tools / Port / COMx
+- Your Board needs a Arduino Bootloader; if not already done, flash it with USBasp ( Tools / Programmer / Usbasp > Burn bootloader )
+
+
+https://chriss.gebbing.de/3d-drucker/anet-board-1-7-mit-bootloader-flashen/
+https://01001000.xyz/2020-08-06-Updating-Firmware-Anet-A8-Board-1.7/
+
 
 
 Config.h File for ANET A8 with Auto bed leveling &amp; LCD12864
