@@ -34,4 +34,5 @@ Here's what you need to get it work:
   and copy it to ..\portable\sketchbook\Marlin\
  
 
-:-)
+
+If you like the Marlin Firmware - please donate for it @ https://www.thinkyhead.com/donate-to-marlin  :-)
