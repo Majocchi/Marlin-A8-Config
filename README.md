@@ -48,10 +48,10 @@ https://paypal.me/Majocchi
 
 XMR: 4B1CmUg5LGUgozGPbSTochbiXfqEcNVbtN7svHywi5iiMHeEK2Gwwqc72uasfWpeUgZ1otyaqWjhYZUrHg3Xv8NZSwP9DHX
 
-BTC:  3GLkVdTNXeKusit1j8yvdzMS75XrfzrEiP  (native)
+(segwit) BTC:  3GLkVdTNXeKusit1j8yvdzMS75XrfzrEiP
 
-BTC:  bc1q5hxhrdhpvuefs30jx7gr7rccex8t7kh5lx23f5  (segwit)
+(native) BTC:  bc1q5hxhrdhpvuefs30jx7gr7rccex8t7kh5lx23f5
 
-ETH:  0xDC2251AC130aB3bCb07E703cedA02e2af9Cc1925
+   ETH:  0xDC2251AC130aB3bCb07E703cedA02e2af9Cc1925
 
 
