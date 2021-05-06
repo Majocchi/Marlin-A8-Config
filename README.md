@@ -23,11 +23,14 @@ Here's what you need to get it work:
 - Install Windows USB Serial Driver & connect your ANET v1.x Board (powered by 12V)
 - Open arduino.exe and set your serial port -> Tools / Port / COMx
 - Your Board needs a Arduino Bootloader; if not already done, flash it with USBasp ( Tools / Programmer / Usbasp > Burn bootloader )
+ 
    -> Descriptions how to to do this can be found on Youtube and Google, e.g.:
-   https://www.youtube.com/watch?v=3jm0zzIneFc
-   https://chriss.gebbing.de/3d-drucker/anet-board-1-7-mit-bootloader-flashen/
-   https://01001000.xyz/2020-08-06-Updating-Firmware-Anet-A8-Board-1.7/
+      https://www.youtube.com/watch?v=3jm0zzIneFc
+      https://chriss.gebbing.de/3d-drucker/anet-board-1-7-mit-bootloader-flashen/
+      https://01001000.xyz/2020-08-06-Updating-Firmware-Anet-A8-Board-1.7/
+      
 - Choose the Config.h file which meets your Printer and copy it to ..\portable\sketchbook\Marlin
+# https://github.com/Majocchi/Marlin-ANET-Config/releases/tag/1.2
 
 
 
