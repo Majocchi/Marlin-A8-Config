@@ -60,15 +60,12 @@ and copy it to the unzipped Marlin folder ..\Marlin}Configuration.h
 
 - Click Compile % Upload in "Auto Build Marlin" - Congratulations >> MARLIN is READY for YOU !!!
 
-
->> ( Here you can find a YouTube Video about it https://www.youtube.com/watch?v=d_GfpI90uo8 )
-
+( Here you can find a YouTube Video about it https://www.youtube.com/watch?v=d_GfpI90uo8 )
 
 
 
-If you like the Marlin Firmware - please donate for it @ https://www.thinkyhead.com/donate-to-marlin
 
-or 
+If you like the Marlin Firmware - please donate for it @ https://www.thinkyhead.com/donate-to-marlin or
 
 # if my work helped you, think about buying me a coffee :-)
 
