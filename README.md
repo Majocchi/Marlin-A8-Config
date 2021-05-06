@@ -34,6 +34,4 @@ Here's what you need to get it work:
   and copy it to ..\portable\sketchbook\Marlin\
  
 
-
-
-Config.h File for ANET A8 with Auto bed leveling &amp; LCD12864
+:-)
