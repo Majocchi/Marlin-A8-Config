@@ -30,7 +30,8 @@ Here's what you need to get it work:
       https://01001000.xyz/2020-08-06-Updating-Firmware-Anet-A8-Board-1.7/
       
 - Choose the Config.h file which meets your Printer and copy it to ..\portable\sketchbook\Marlin
-# https://github.com/Majocchi/Marlin-ANET-Config/releases/tag/1.2
+ 
+      -> https://github.com/Majocchi/Marlin-ANET-Config/releases/tag/1.2
 
 
 
