@@ -4,13 +4,15 @@ It's a bit tricky to get Marlin v 2.08 (Release 30. April 2021) compiled for ANE
 
 Here's what you need to get it work:
 
+# SkyNet3D v 2.4.5 / MARLIN 1.1.x
+
 1.) modified Arduino IDE Version 1.8.10 [ https://github.com/Majocchi/Marlin-ANET-Config/releases/tag/1.0 ]
 
     -> https://github.com/Majocchi/Marlin-ANET-Config/releases/download/1.0/anet-arduino-1810.zip
 
-2.) modified Marlin Version 2.0.8 [ https://github.com/Majocchi/Marlin-ANET-Config/releases/tag/1.1 ]
+2.) modified Marlin Version 1.1.9.1 [ https://github.com/Majocchi/Marlin-ANET-Config/releases/tag/1.05 ]
 
-    -> https://github.com/Majocchi/Marlin-ANET-Config/releases/download/1.1/Marlin.zip
+    -> https://github.com/Majocchi/Marlin-ANET-Config/releases/download/1.05/Marlin-1191.zip
 
 3.) Windows USB to Serial driver for ANET 1.x Board [ https://github.com/Majocchi/Marlin-ANET-Config/releases/tag/0.9 ]
    
@@ -36,6 +38,32 @@ Here's what you need to get it work:
   ...adapt to your needs if necessary, take a look @ https://marlinfw.org/docs/configuration/configuration.html#configuring-marlin
 
 - Click Upload - Congratulations >> MARLIN is READY for YOU !!!
+
+
+# MARLIN v 2.0.x
+
+This is much easier :-)
+
+1.) Install Windows USB Serial Driver & connect your ANET v1.x Board (powered by 12V) https://github.com/Majocchi/Marlin-ANET-Config/releases/tag/0.9
+
+2.) Install VScode https://code.visualstudio.com
+
+3.) Install PlatformIO IDE for VScode  https://platformio.org/platformio-ide
+
+4.) Install "Auto Build Marlin" for VScode https://marketplace.visualstudio.com/items?itemName=MarlinFirmware.auto-build
+
+5.) Download & Unzip latest Marlin v 2.0.x Version  https://github.com/MarlinFirmware/Marlin/releases
+
+6.) Choose the config.h file which meets your Printer best [ https://github.com/Majocchi/Marlin-ANET-Config/releases/tag/1.2 ]
+
+and copy it to the unzipped Marlin folder ..\Marlin}Configuration.h 
+
+- Click Compile % Upload in "Auto Build Marlin" - Congratulations >> MARLIN is READY for YOU !!!
+
+
+>> ( Here you can find a YouTube Video about it https://www.youtube.com/watch?v=d_GfpI90uo8 )
+
+
 
 
 If you like the Marlin Firmware - please donate for it @ https://www.thinkyhead.com/donate-to-marlin
