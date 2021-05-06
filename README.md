@@ -38,4 +38,11 @@ Here's what you need to get it work:
 - Click Upload - Congratulations >> MARLIN is READY for YOU !!!
 
 
-If you like the Marlin Firmware - please donate for it @ https://www.thinkyhead.com/donate-to-marlin  :-)
+If you like the Marlin Firmware - please donate for it @ https://www.thinkyhead.com/donate-to-marlin
+
+or if my work helped you think about buying me a coofee :-)
+
+# https://paypal.me/Majocchi
+# XMR: 4B1CmUg5LGUgozGPbSTochbiXfqEcNVbtN7svHywi5iiMHeEK2Gwwqc72uasfWpeUgZ1otyaqWjhYZUrHg3Xv8NZSwP9DHX
+
+
