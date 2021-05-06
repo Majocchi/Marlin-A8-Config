@@ -42,11 +42,12 @@ If you like the Marlin Firmware - please donate for it @ https://www.thinkyhead.
 
 or 
 
-# if my work helped you, think about buying me a coofee :-)
+# if my work helped you, think about buying me a coffee :-)
 
 https://paypal.me/Majocchi
+
 XMR: 4B1CmUg5LGUgozGPbSTochbiXfqEcNVbtN7svHywi5iiMHeEK2Gwwqc72uasfWpeUgZ1otyaqWjhYZUrHg3Xv8NZSwP9DHX
+
 BTC: 3EFW7SLZ8ee7xJ3m7Hk9aCE65Q9voSrDEs
+
 ETH: 0xbd7c116f064d2d141bba28da49644b501c7d5cec
-
-
