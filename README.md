@@ -36,6 +36,6 @@ Here's what you need to get it work:
   ...adapt to your needs if necessary, take a look @ https://marlinfw.org/docs/configuration/configuration.html#configuring-marlin
 
 - Click Upload - Congratulations >> MARLIN is READY for YOU !!!
-- 
+
 
 If you like the Marlin Firmware - please donate for it @ https://www.thinkyhead.com/donate-to-marlin  :-)
